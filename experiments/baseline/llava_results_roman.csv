@@ -1,0 +1,301 @@
+image_id,file_name,question,answer,predicted,split,category,language,raw_response
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein cake hai?,yes,yes,random,cake,roman,yes
+470699,COCO_val2014_000000470699.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+520862,COCO_val2014_000000520862.jpg,Kya tasveer mein kursi hai?,yes,no,random,chair,roman,no
+412419,COCO_val2014_000000412419.jpg,Kya tasveer mein baseball ka dastaana hai?,yes,yes,random,baseball glove,roman,yes
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein khel ka gend hai?,yes,yes,random,sports ball,roman,yes
+577219,COCO_val2014_000000577219.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+303685,COCO_val2014_000000303685.jpg,Kya tasveer mein bag hai?,yes,no,random,backpack,roman,no
+113139,COCO_val2014_000000113139.jpg,Kya tasveer mein khane ki mez hai?,yes,yes,random,dining table,roman,yes
+207072,COCO_val2014_000000207072.jpg,Kya tasveer mein gamla hai?,yes,no,random,potted plant,roman,no
+317565,COCO_val2014_000000317565.jpg,Kya tasveer mein tv hai?,yes,no,random,tv,roman,no
+194716,COCO_val2014_000000194716.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+83277,COCO_val2014_000000083277.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein kitaab hai?,yes,no,random,book,roman,no
+297522,COCO_val2014_000000297522.jpg,Kya tasveer mein baseball ka dastaana hai?,yes,yes,random,baseball glove,roman,yes
+478736,COCO_val2014_000000478736.jpg,Kya tasveer mein traffic signal hai?,yes,yes,random,traffic light,roman,yes
+115776,COCO_val2014_000000115776.jpg,Kya tasveer mein kaanta hai?,yes,yes,random,fork,roman,yes
+279549,COCO_val2014_000000279549.jpg,Kya tasveer mein tennis ka racket hai?,yes,yes,random,tennis racket,roman,yes
+218494,COCO_val2014_000000218494.jpg,Kya tasveer mein mouse hai?,yes,yes,random,mouse,roman,yes
+375285,COCO_val2014_000000375285.jpg,Kya tasveer mein bag hai?,yes,yes,random,backpack,roman,yes
+497067,COCO_val2014_000000497067.jpg,Kya tasveer mein gaari hai?,yes,yes,random,car,roman,yes
+110330,COCO_val2014_000000110330.jpg,Kya tasveer mein handbag hai?,yes,yes,random,handbag,roman,yes
+255401,COCO_val2014_000000255401.jpg,Kya tasveer mein botal hai?,yes,yes,random,bottle,roman,yes
+422025,COCO_val2014_000000422025.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein khel ka gend hai?,yes,yes,random,sports ball,roman,yes
+257036,COCO_val2014_000000257036.jpg,Kya tasveer mein cycle hai?,yes,yes,random,bicycle,roman,yes
+150224,COCO_val2014_000000150224.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+536403,COCO_val2014_000000536403.jpg,Kya tasveer mein hot dog hai?,yes,yes,random,hot dog,roman,yes
+431891,COCO_val2014_000000431891.jpg,Kya tasveer mein insaan hai?,yes,no,random,person,roman,no
+323576,COCO_val2014_000000323576.jpg,Kya tasveer mein kursi hai?,yes,yes,random,chair,roman,yes
+439982,COCO_val2014_000000439982.jpg,Kya tasveer mein gajar hai?,yes,yes,random,carrot,roman,yes
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+110313,COCO_val2014_000000110313.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+233727,COCO_val2014_000000233727.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+228335,COCO_val2014_000000228335.jpg,Kya tasveer mein phool daani hai?,yes,yes,random,vase,roman,yes
+520659,COCO_val2014_000000520659.jpg,Kya tasveer mein surfboard hai?,yes,yes,random,surfboard,roman,yes
+8021,COCO_val2014_000000008021.jpg,Kya tasveer mein tie hai?,yes,yes,random,tie,roman,yes
+50942,COCO_val2014_000000050942.jpg,Kya tasveer mein kursi hai?,yes,no,random,chair,roman,no
+200627,COCO_val2014_000000200627.jpg,Kya tasveer mein cup hai?,yes,yes,random,cup,roman,yes
+386424,COCO_val2014_000000386424.jpg,Kya tasveer mein khane ki mez hai?,yes,yes,random,dining table,roman,yes
+248089,COCO_val2014_000000248089.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+17714,COCO_val2014_000000017714.jpg,Kya tasveer mein khane ki mez hai?,yes,yes,random,dining table,roman,yes
+526418,COCO_val2014_000000526418.jpg,Kya tasveer mein teddy bear hai?,yes,yes,random,teddy bear,roman,yes
+342165,COCO_val2014_000000342165.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+8718,COCO_val2014_000000008718.jpg,Kya tasveer mein bowl hai?,yes,yes,random,bowl,roman,yes
+332625,COCO_val2014_000000332625.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein insaan hai?,yes,yes,random,person,roman,yes
+367872,COCO_val2014_000000367872.jpg,Kya tasveer mein khel ka gend hai?,yes,yes,random,sports ball,roman,yes
+455716,COCO_val2014_000000455716.jpg,Kya tasveer mein motorcycle hai?,yes,yes,random,motorcycle,roman,yes
+398798,COCO_val2014_000000398798.jpg,Kya tasveer mein tennis ka racket hai?,yes,yes,random,tennis racket,roman,yes
+383087,COCO_val2014_000000383087.jpg,Kya tasveer mein bowl hai?,yes,yes,random,bowl,roman,yes
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein sandwich hai?,no,no,random,sandwich,roman,no
+470699,COCO_val2014_000000470699.jpg,Kya tasveer mein bistar hai?,no,yes,random,bed,roman,yes
+520862,COCO_val2014_000000520862.jpg,Kya tasveer mein bag hai?,no,no,random,backpack,roman,no
+412419,COCO_val2014_000000412419.jpg,Kya tasveer mein gamla hai?,no,no,random,potted plant,roman,no
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein handbag hai?,no,no,random,handbag,roman,no
+577219,COCO_val2014_000000577219.jpg,Kya tasveer mein microwave hai?,no,no,random,microwave,roman,no
+303685,COCO_val2014_000000303685.jpg,Kya tasveer mein cake hai?,no,no,random,cake,roman,no
+113139,COCO_val2014_000000113139.jpg,Kya tasveer mein snowboard hai?,no,no,random,snowboard,roman,no
+207072,COCO_val2014_000000207072.jpg,Kya tasveer mein snowboard hai?,no,no,random,snowboard,roman,no
+317565,COCO_val2014_000000317565.jpg,Kya tasveer mein remote hai?,no,no,random,remote,roman,no
+194716,COCO_val2014_000000194716.jpg,Kya tasveer mein handbag hai?,no,no,random,handbag,roman,no
+83277,COCO_val2014_000000083277.jpg,Kya tasveer mein chhatri hai?,no,yes,random,umbrella,roman,yes
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein kursi hai?,no,no,random,chair,roman,no
+297522,COCO_val2014_000000297522.jpg,Kya tasveer mein parking meter hai?,no,no,random,parking meter,roman,no
+478736,COCO_val2014_000000478736.jpg,Kya tasveer mein bus hai?,no,no,random,bus,roman,no
+115776,COCO_val2014_000000115776.jpg,Kya tasveer mein parking meter hai?,no,no,random,parking meter,roman,no
+279549,COCO_val2014_000000279549.jpg,Kya tasveer mein kitaab hai?,no,no,random,book,roman,no
+218494,COCO_val2014_000000218494.jpg,Kya tasveer mein sandwich hai?,no,no,random,sandwich,roman,no
+375285,COCO_val2014_000000375285.jpg,Kya tasveer mein teddy bear hai?,no,no,random,teddy bear,roman,no
+497067,COCO_val2014_000000497067.jpg,Kya tasveer mein frisbee hai?,no,no,random,frisbee,roman,no
+110330,COCO_val2014_000000110330.jpg,Kya tasveer mein cake hai?,no,no,random,cake,roman,no
+255401,COCO_val2014_000000255401.jpg,Kya tasveer mein traffic signal hai?,no,no,random,traffic light,roman,no
+422025,COCO_val2014_000000422025.jpg,Kya tasveer mein phool daani hai?,no,no,random,vase,roman,no
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein stop sign hai?,no,no,random,stop sign,roman,no
+257036,COCO_val2014_000000257036.jpg,Kya tasveer mein suitcase hai?,no,no,random,suitcase,roman,no
+150224,COCO_val2014_000000150224.jpg,Kya tasveer mein suitcase hai?,no,no,random,suitcase,roman,no
+536403,COCO_val2014_000000536403.jpg,Kya tasveer mein zebra hai?,no,no,random,zebra,roman,no
+431891,COCO_val2014_000000431891.jpg,Kya tasveer mein ghora hai?,no,yes,random,horse,roman,yes
+323576,COCO_val2014_000000323576.jpg,Kya tasveer mein fridge hai?,no,no,random,refrigerator,roman,no
+439982,COCO_val2014_000000439982.jpg,Kya tasveer mein surfboard hai?,no,no,random,surfboard,roman,no
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein hot dog hai?,no,no,random,hot dog,roman,no
+110313,COCO_val2014_000000110313.jpg,Kya tasveer mein oven hai?,no,no,random,oven,roman,no
+233727,COCO_val2014_000000233727.jpg,Kya tasveer mein khel ka gend hai?,no,no,random,sports ball,roman,no
+228335,COCO_val2014_000000228335.jpg,Kya tasveer mein kutta hai?,no,no,random,dog,roman,no
+520659,COCO_val2014_000000520659.jpg,Kya tasveer mein cake hai?,no,no,random,cake,roman,no
+8021,COCO_val2014_000000008021.jpg,Kya tasveer mein cake hai?,no,no,random,cake,roman,no
+50942,COCO_val2014_000000050942.jpg,Kya tasveer mein tennis ka racket hai?,no,no,random,tennis racket,roman,no
+200627,COCO_val2014_000000200627.jpg,Kya tasveer mein zebra hai?,no,no,random,zebra,roman,no
+386424,COCO_val2014_000000386424.jpg,Kya tasveer mein bowl hai?,no,no,random,bowl,roman,no
+248089,COCO_val2014_000000248089.jpg,Kya tasveer mein gilaas hai?,no,yes,random,wine glass,roman,yes
+17714,COCO_val2014_000000017714.jpg,Kya tasveer mein sandwich hai?,no,no,random,sandwich,roman,no
+526418,COCO_val2014_000000526418.jpg,Kya tasveer mein tennis ka racket hai?,no,no,random,tennis racket,roman,no
+342165,COCO_val2014_000000342165.jpg,Kya tasveer mein microwave hai?,no,no,random,microwave,roman,no
+8718,COCO_val2014_000000008718.jpg,Kya tasveer mein cycle hai?,no,no,random,bicycle,roman,no
+332625,COCO_val2014_000000332625.jpg,Kya tasveer mein fire hydrant hai?,no,no,random,fire hydrant,roman,no
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein oven hai?,no,no,random,oven,roman,no
+367872,COCO_val2014_000000367872.jpg,Kya tasveer mein bhed hai?,no,yes,random,sheep,roman,yes
+455716,COCO_val2014_000000455716.jpg,Kya tasveer mein broccoli hai?,no,no,random,broccoli,roman,no
+398798,COCO_val2014_000000398798.jpg,Kya tasveer mein bistar hai?,no,yes,random,bed,roman,yes
+383087,COCO_val2014_000000383087.jpg,Kya tasveer mein botal hai?,no,no,random,bottle,roman,no
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein surfboard hai?,yes,yes,popular,surfboard,roman,yes
+470699,COCO_val2014_000000470699.jpg,Kya tasveer mein insaan hai?,yes,yes,popular,person,roman,yes
+520862,COCO_val2014_000000520862.jpg,Kya tasveer mein kursi hai?,yes,no,popular,chair,roman,no
+412419,COCO_val2014_000000412419.jpg,Kya tasveer mein baseball ka dastaana hai?,yes,yes,popular,baseball glove,roman,yes
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein insaan hai?,yes,yes,popular,person,roman,yes
+577219,COCO_val2014_000000577219.jpg,Kya tasveer mein bag hai?,yes,yes,popular,backpack,roman,yes
+303685,COCO_val2014_000000303685.jpg,Kya tasveer mein truck hai?,yes,yes,popular,truck,roman,yes
+113139,COCO_val2014_000000113139.jpg,Kya tasveer mein cup hai?,yes,yes,popular,cup,roman,yes
+207072,COCO_val2014_000000207072.jpg,Kya tasveer mein gaari hai?,yes,yes,popular,car,roman,yes
+317565,COCO_val2014_000000317565.jpg,Kya tasveer mein sofa hai?,yes,yes,popular,couch,roman,yes
+194716,COCO_val2014_000000194716.jpg,Kya tasveer mein gaari hai?,yes,yes,popular,car,roman,yes
+83277,COCO_val2014_000000083277.jpg,Kya tasveer mein gaari hai?,yes,yes,popular,car,roman,yes
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein cake hai?,yes,yes,popular,cake,roman,yes
+297522,COCO_val2014_000000297522.jpg,Kya tasveer mein baseball ka dastaana hai?,yes,yes,popular,baseball glove,roman,yes
+478736,COCO_val2014_000000478736.jpg,Kya tasveer mein gaari hai?,yes,no,popular,car,roman,no
+115776,COCO_val2014_000000115776.jpg,Kya tasveer mein churi hai?,yes,yes,popular,knife,roman,yes
+279549,COCO_val2014_000000279549.jpg,Kya tasveer mein tennis ka racket hai?,yes,yes,popular,tennis racket,roman,yes
+218494,COCO_val2014_000000218494.jpg,Kya tasveer mein keyboard hai?,yes,no,popular,keyboard,roman,no
+375285,COCO_val2014_000000375285.jpg,Kya tasveer mein bag hai?,yes,yes,popular,backpack,roman,yes
+497067,COCO_val2014_000000497067.jpg,Kya tasveer mein truck hai?,yes,yes,popular,truck,roman,yes
+110330,COCO_val2014_000000110330.jpg,Kya tasveer mein handbag hai?,yes,yes,popular,handbag,roman,yes
+255401,COCO_val2014_000000255401.jpg,Kya tasveer mein botal hai?,yes,yes,popular,bottle,roman,yes
+422025,COCO_val2014_000000422025.jpg,Kya tasveer mein truck hai?,yes,yes,popular,truck,roman,yes
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein baseball ka dastaana hai?,yes,yes,popular,baseball glove,roman,yes
+257036,COCO_val2014_000000257036.jpg,Kya tasveer mein bag hai?,yes,yes,popular,backpack,roman,yes
+150224,COCO_val2014_000000150224.jpg,Kya tasveer mein insaan hai?,yes,yes,popular,person,roman,yes
+536403,COCO_val2014_000000536403.jpg,Kya tasveer mein hot dog hai?,yes,yes,popular,hot dog,roman,yes
+431891,COCO_val2014_000000431891.jpg,Kya tasveer mein insaan hai?,yes,no,popular,person,roman,no
+323576,COCO_val2014_000000323576.jpg,Kya tasveer mein chhatri hai?,yes,yes,popular,umbrella,roman,yes
+439982,COCO_val2014_000000439982.jpg,Kya tasveer mein cup hai?,yes,no,popular,cup,roman,no
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein insaan hai?,yes,yes,popular,person,roman,yes
+110313,COCO_val2014_000000110313.jpg,Kya tasveer mein insaan hai?,yes,yes,popular,person,roman,yes
+233727,COCO_val2014_000000233727.jpg,Kya tasveer mein insaan hai?,yes,yes,popular,person,roman,yes
+228335,COCO_val2014_000000228335.jpg,Kya tasveer mein kursi hai?,yes,no,popular,chair,roman,no
+520659,COCO_val2014_000000520659.jpg,Kya tasveer mein surfboard hai?,yes,yes,popular,surfboard,roman,yes
+8021,COCO_val2014_000000008021.jpg,Kya tasveer mein botal hai?,yes,no,popular,bottle,roman,no
+50942,COCO_val2014_000000050942.jpg,Kya tasveer mein keyboard hai?,yes,yes,popular,keyboard,roman,yes
+200627,COCO_val2014_000000200627.jpg,Kya tasveer mein kitaab hai?,yes,no,popular,book,roman,no
+386424,COCO_val2014_000000386424.jpg,Kya tasveer mein botal hai?,yes,yes,popular,bottle,roman,yes
+248089,COCO_val2014_000000248089.jpg,Kya tasveer mein insaan hai?,yes,yes,popular,person,roman,yes
+17714,COCO_val2014_000000017714.jpg,Kya tasveer mein kaanta hai?,yes,yes,popular,fork,roman,yes
+526418,COCO_val2014_000000526418.jpg,Kya tasveer mein kitaab hai?,yes,yes,popular,book,roman,yes
+342165,COCO_val2014_000000342165.jpg,Kya tasveer mein insaan hai?,yes,yes,popular,person,roman,yes
+8718,COCO_val2014_000000008718.jpg,Kya tasveer mein chamach hai?,yes,yes,popular,spoon,roman,yes
+332625,COCO_val2014_000000332625.jpg,Kya tasveer mein kursi hai?,yes,yes,popular,chair,roman,yes
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein khel ka gend hai?,yes,yes,popular,sports ball,roman,yes
+367872,COCO_val2014_000000367872.jpg,Kya tasveer mein baseball ka dastaana hai?,yes,yes,popular,baseball glove,roman,yes
+455716,COCO_val2014_000000455716.jpg,Kya tasveer mein handbag hai?,yes,no,popular,handbag,roman,no
+398798,COCO_val2014_000000398798.jpg,Kya tasveer mein tennis ka racket hai?,yes,yes,popular,tennis racket,roman,yes
+383087,COCO_val2014_000000383087.jpg,Kya tasveer mein cup hai?,yes,yes,popular,cup,roman,yes
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein kursi hai?,no,no,popular,chair,roman,no
+470699,COCO_val2014_000000470699.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+520862,COCO_val2014_000000520862.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+412419,COCO_val2014_000000412419.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein kursi hai?,no,no,popular,chair,roman,no
+577219,COCO_val2014_000000577219.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+303685,COCO_val2014_000000303685.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+113139,COCO_val2014_000000113139.jpg,Kya tasveer mein gaari hai?,no,no,popular,car,roman,no
+207072,COCO_val2014_000000207072.jpg,Kya tasveer mein insaan hai?,no,no,popular,person,roman,no
+317565,COCO_val2014_000000317565.jpg,Kya tasveer mein gaari hai?,no,no,popular,car,roman,no
+194716,COCO_val2014_000000194716.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+83277,COCO_val2014_000000083277.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+297522,COCO_val2014_000000297522.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+478736,COCO_val2014_000000478736.jpg,Kya tasveer mein insaan hai?,no,yes,popular,person,roman,yes
+115776,COCO_val2014_000000115776.jpg,Kya tasveer mein insaan hai?,no,yes,popular,person,roman,yes
+279549,COCO_val2014_000000279549.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+218494,COCO_val2014_000000218494.jpg,Kya tasveer mein kursi hai?,no,yes,popular,chair,roman,yes
+375285,COCO_val2014_000000375285.jpg,Kya tasveer mein kursi hai?,no,no,popular,chair,roman,no
+497067,COCO_val2014_000000497067.jpg,Kya tasveer mein botal hai?,no,yes,popular,bottle,roman,yes
+110330,COCO_val2014_000000110330.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+255401,COCO_val2014_000000255401.jpg,Kya tasveer mein kursi hai?,no,yes,popular,chair,roman,yes
+422025,COCO_val2014_000000422025.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+257036,COCO_val2014_000000257036.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+150224,COCO_val2014_000000150224.jpg,Kya tasveer mein botal hai?,no,no,popular,bottle,roman,no
+536403,COCO_val2014_000000536403.jpg,Kya tasveer mein insaan hai?,no,no,popular,person,roman,no
+431891,COCO_val2014_000000431891.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+323576,COCO_val2014_000000323576.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+439982,COCO_val2014_000000439982.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein kursi hai?,no,no,popular,chair,roman,no
+110313,COCO_val2014_000000110313.jpg,Kya tasveer mein kursi hai?,no,no,popular,chair,roman,no
+233727,COCO_val2014_000000233727.jpg,Kya tasveer mein kursi hai?,no,no,popular,chair,roman,no
+228335,COCO_val2014_000000228335.jpg,Kya tasveer mein botal hai?,no,no,popular,bottle,roman,no
+520659,COCO_val2014_000000520659.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+8021,COCO_val2014_000000008021.jpg,Kya tasveer mein gaari hai?,no,no,popular,car,roman,no
+50942,COCO_val2014_000000050942.jpg,Kya tasveer mein gaari hai?,no,no,popular,car,roman,no
+200627,COCO_val2014_000000200627.jpg,Kya tasveer mein kursi hai?,no,no,popular,chair,roman,no
+386424,COCO_val2014_000000386424.jpg,Kya tasveer mein gaari hai?,no,no,popular,car,roman,no
+248089,COCO_val2014_000000248089.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+17714,COCO_val2014_000000017714.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+526418,COCO_val2014_000000526418.jpg,Kya tasveer mein botal hai?,no,no,popular,bottle,roman,no
+342165,COCO_val2014_000000342165.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+8718,COCO_val2014_000000008718.jpg,Kya tasveer mein insaan hai?,no,yes,popular,person,roman,yes
+332625,COCO_val2014_000000332625.jpg,Kya tasveer mein gaari hai?,no,no,popular,car,roman,no
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+367872,COCO_val2014_000000367872.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+455716,COCO_val2014_000000455716.jpg,Kya tasveer mein kursi hai?,no,no,popular,chair,roman,no
+398798,COCO_val2014_000000398798.jpg,Kya tasveer mein gaari hai?,no,yes,popular,car,roman,yes
+383087,COCO_val2014_000000383087.jpg,Kya tasveer mein kitaab hai?,no,no,popular,book,roman,no
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein kitaab hai?,yes,no,adversarial,book,roman,no
+470699,COCO_val2014_000000470699.jpg,Kya tasveer mein surfboard hai?,yes,yes,adversarial,surfboard,roman,yes
+520862,COCO_val2014_000000520862.jpg,Kya tasveer mein khane ki mez hai?,yes,yes,adversarial,dining table,roman,yes
+412419,COCO_val2014_000000412419.jpg,Kya tasveer mein insaan hai?,yes,yes,adversarial,person,roman,yes
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein baseball ka dastaana hai?,yes,yes,adversarial,baseball glove,roman,yes
+577219,COCO_val2014_000000577219.jpg,Kya tasveer mein bag hai?,yes,yes,adversarial,backpack,roman,yes
+303685,COCO_val2014_000000303685.jpg,Kya tasveer mein bag hai?,yes,no,adversarial,backpack,roman,no
+113139,COCO_val2014_000000113139.jpg,Kya tasveer mein khane ki mez hai?,yes,yes,adversarial,dining table,roman,yes
+207072,COCO_val2014_000000207072.jpg,Kya tasveer mein phool daani hai?,yes,yes,adversarial,vase,roman,yes
+317565,COCO_val2014_000000317565.jpg,Kya tasveer mein tv hai?,yes,no,adversarial,tv,roman,no
+194716,COCO_val2014_000000194716.jpg,Kya tasveer mein insaan hai?,yes,yes,adversarial,person,roman,yes
+83277,COCO_val2014_000000083277.jpg,Kya tasveer mein skateboard hai?,yes,yes,adversarial,skateboard,roman,yes
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein surfboard hai?,yes,yes,adversarial,surfboard,roman,yes
+297522,COCO_val2014_000000297522.jpg,Kya tasveer mein insaan hai?,yes,yes,adversarial,person,roman,yes
+478736,COCO_val2014_000000478736.jpg,Kya tasveer mein gaari hai?,yes,no,adversarial,car,roman,no
+115776,COCO_val2014_000000115776.jpg,Kya tasveer mein churi hai?,yes,yes,adversarial,knife,roman,yes
+279549,COCO_val2014_000000279549.jpg,Kya tasveer mein insaan hai?,yes,yes,adversarial,person,roman,yes
+218494,COCO_val2014_000000218494.jpg,Kya tasveer mein keyboard hai?,yes,no,adversarial,keyboard,roman,no
+375285,COCO_val2014_000000375285.jpg,Kya tasveer mein surfboard hai?,yes,yes,adversarial,surfboard,roman,yes
+497067,COCO_val2014_000000497067.jpg,Kya tasveer mein truck hai?,yes,yes,adversarial,truck,roman,yes
+110330,COCO_val2014_000000110330.jpg,Kya tasveer mein insaan hai?,yes,yes,adversarial,person,roman,yes
+255401,COCO_val2014_000000255401.jpg,Kya tasveer mein botal hai?,yes,yes,adversarial,bottle,roman,yes
+422025,COCO_val2014_000000422025.jpg,Kya tasveer mein insaan hai?,yes,yes,adversarial,person,roman,yes
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein insaan hai?,yes,yes,adversarial,person,roman,yes
+257036,COCO_val2014_000000257036.jpg,Kya tasveer mein cycle hai?,yes,yes,adversarial,bicycle,roman,yes
+150224,COCO_val2014_000000150224.jpg,Kya tasveer mein kursi hai?,yes,no,adversarial,chair,roman,no
+536403,COCO_val2014_000000536403.jpg,Kya tasveer mein hot dog hai?,yes,yes,adversarial,hot dog,roman,yes
+431891,COCO_val2014_000000431891.jpg,Kya tasveer mein botal hai?,yes,no,adversarial,bottle,roman,no
+323576,COCO_val2014_000000323576.jpg,Kya tasveer mein chhatri hai?,yes,yes,adversarial,umbrella,roman,yes
+439982,COCO_val2014_000000439982.jpg,Kya tasveer mein khane ki mez hai?,yes,yes,adversarial,dining table,roman,yes
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein baseball ka dastaana hai?,yes,yes,adversarial,baseball glove,roman,yes
+110313,COCO_val2014_000000110313.jpg,Kya tasveer mein chhatri hai?,yes,yes,adversarial,umbrella,roman,yes
+233727,COCO_val2014_000000233727.jpg,Kya tasveer mein cycle hai?,yes,yes,adversarial,bicycle,roman,yes
+228335,COCO_val2014_000000228335.jpg,Kya tasveer mein phool daani hai?,yes,yes,adversarial,vase,roman,yes
+520659,COCO_val2014_000000520659.jpg,Kya tasveer mein surfboard hai?,yes,yes,adversarial,surfboard,roman,yes
+8021,COCO_val2014_000000008021.jpg,Kya tasveer mein botal hai?,yes,no,adversarial,bottle,roman,no
+50942,COCO_val2014_000000050942.jpg,Kya tasveer mein keyboard hai?,yes,yes,adversarial,keyboard,roman,yes
+200627,COCO_val2014_000000200627.jpg,Kya tasveer mein broccoli hai?,yes,yes,adversarial,broccoli,roman,yes
+386424,COCO_val2014_000000386424.jpg,Kya tasveer mein phool daani hai?,yes,no,adversarial,vase,roman,no
+248089,COCO_val2014_000000248089.jpg,Kya tasveer mein remote hai?,yes,yes,adversarial,remote,roman,yes
+17714,COCO_val2014_000000017714.jpg,Kya tasveer mein churi hai?,yes,yes,adversarial,knife,roman,yes
+526418,COCO_val2014_000000526418.jpg,Kya tasveer mein kitaab hai?,yes,yes,adversarial,book,roman,yes
+342165,COCO_val2014_000000342165.jpg,Kya tasveer mein insaan hai?,yes,yes,adversarial,person,roman,yes
+8718,COCO_val2014_000000008718.jpg,Kya tasveer mein cup hai?,yes,yes,adversarial,cup,roman,yes
+332625,COCO_val2014_000000332625.jpg,Kya tasveer mein tv hai?,yes,yes,adversarial,tv,roman,yes
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein chhatri hai?,yes,yes,adversarial,umbrella,roman,yes
+367872,COCO_val2014_000000367872.jpg,Kya tasveer mein baseball ka balla hai?,yes,yes,adversarial,baseball bat,roman,yes
+455716,COCO_val2014_000000455716.jpg,Kya tasveer mein motorcycle hai?,yes,yes,adversarial,motorcycle,roman,yes
+398798,COCO_val2014_000000398798.jpg,Kya tasveer mein tennis ka racket hai?,yes,yes,adversarial,tennis racket,roman,yes
+383087,COCO_val2014_000000383087.jpg,Kya tasveer mein khane ki mez hai?,yes,yes,adversarial,dining table,roman,yes
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein kursi hai?,no,no,adversarial,chair,roman,no
+470699,COCO_val2014_000000470699.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+520862,COCO_val2014_000000520862.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+412419,COCO_val2014_000000412419.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein kursi hai?,no,no,adversarial,chair,roman,no
+577219,COCO_val2014_000000577219.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+303685,COCO_val2014_000000303685.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+113139,COCO_val2014_000000113139.jpg,Kya tasveer mein gaari hai?,no,no,adversarial,car,roman,no
+207072,COCO_val2014_000000207072.jpg,Kya tasveer mein insaan hai?,no,no,adversarial,person,roman,no
+317565,COCO_val2014_000000317565.jpg,Kya tasveer mein gaari hai?,no,no,adversarial,car,roman,no
+194716,COCO_val2014_000000194716.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+83277,COCO_val2014_000000083277.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+322816,COCO_val2014_000000322816.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+297522,COCO_val2014_000000297522.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+478736,COCO_val2014_000000478736.jpg,Kya tasveer mein insaan hai?,no,yes,adversarial,person,roman,yes
+115776,COCO_val2014_000000115776.jpg,Kya tasveer mein insaan hai?,no,yes,adversarial,person,roman,yes
+279549,COCO_val2014_000000279549.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+218494,COCO_val2014_000000218494.jpg,Kya tasveer mein kursi hai?,no,yes,adversarial,chair,roman,yes
+375285,COCO_val2014_000000375285.jpg,Kya tasveer mein kursi hai?,no,no,adversarial,chair,roman,no
+497067,COCO_val2014_000000497067.jpg,Kya tasveer mein botal hai?,no,yes,adversarial,bottle,roman,yes
+110330,COCO_val2014_000000110330.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+255401,COCO_val2014_000000255401.jpg,Kya tasveer mein kursi hai?,no,yes,adversarial,chair,roman,yes
+422025,COCO_val2014_000000422025.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+257036,COCO_val2014_000000257036.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+150224,COCO_val2014_000000150224.jpg,Kya tasveer mein botal hai?,no,no,adversarial,bottle,roman,no
+536403,COCO_val2014_000000536403.jpg,Kya tasveer mein insaan hai?,no,no,adversarial,person,roman,no
+431891,COCO_val2014_000000431891.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+323576,COCO_val2014_000000323576.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+439982,COCO_val2014_000000439982.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+54329,COCO_val2014_000000054329.jpg,Kya tasveer mein kursi hai?,no,no,adversarial,chair,roman,no
+110313,COCO_val2014_000000110313.jpg,Kya tasveer mein kursi hai?,no,no,adversarial,chair,roman,no
+233727,COCO_val2014_000000233727.jpg,Kya tasveer mein kursi hai?,no,no,adversarial,chair,roman,no
+228335,COCO_val2014_000000228335.jpg,Kya tasveer mein botal hai?,no,no,adversarial,bottle,roman,no
+520659,COCO_val2014_000000520659.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+8021,COCO_val2014_000000008021.jpg,Kya tasveer mein gaari hai?,no,no,adversarial,car,roman,no
+50942,COCO_val2014_000000050942.jpg,Kya tasveer mein gaari hai?,no,no,adversarial,car,roman,no
+200627,COCO_val2014_000000200627.jpg,Kya tasveer mein kursi hai?,no,no,adversarial,chair,roman,no
+386424,COCO_val2014_000000386424.jpg,Kya tasveer mein gaari hai?,no,no,adversarial,car,roman,no
+248089,COCO_val2014_000000248089.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+17714,COCO_val2014_000000017714.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+526418,COCO_val2014_000000526418.jpg,Kya tasveer mein botal hai?,no,no,adversarial,bottle,roman,no
+342165,COCO_val2014_000000342165.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+8718,COCO_val2014_000000008718.jpg,Kya tasveer mein insaan hai?,no,yes,adversarial,person,roman,yes
+332625,COCO_val2014_000000332625.jpg,Kya tasveer mein gaari hai?,no,no,adversarial,car,roman,no
+131280,COCO_val2014_000000131280.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+367872,COCO_val2014_000000367872.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no
+455716,COCO_val2014_000000455716.jpg,Kya tasveer mein kursi hai?,no,no,adversarial,chair,roman,no
+398798,COCO_val2014_000000398798.jpg,Kya tasveer mein gaari hai?,no,yes,adversarial,car,roman,yes
+383087,COCO_val2014_000000383087.jpg,Kya tasveer mein kitaab hai?,no,no,adversarial,book,roman,no

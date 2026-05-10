@@ -1,0 +1,301 @@
+image_id,file_name,question,answer,predicted,split,category,language,raw_response
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کیک ہے؟,yes,yes,random,cake,ur,yes
+470699,COCO_val2014_000000470699.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,random,person,ur,no
+520862,COCO_val2014_000000520862.jpg,کیا تصویر میں کرسی ہے؟,yes,no,random,chair,ur,no
+412419,COCO_val2014_000000412419.jpg,کیا تصویر میں بیس بال کا دستانہ ہے؟,yes,no,random,baseball glove,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں کھیلوں کی گیند ہے؟,yes,yes,random,sports ball,ur,yes
+577219,COCO_val2014_000000577219.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,random,person,ur,no
+303685,COCO_val2014_000000303685.jpg,کیا تصویر میں کوئی بیگ ہے؟,yes,no,random,backpack,ur,no
+113139,COCO_val2014_000000113139.jpg,کیا تصویر میں کھانے کی میز ہے؟,yes,yes,random,dining table,ur,yes
+207072,COCO_val2014_000000207072.jpg,کیا تصویر میں کوئی پودا ہے؟,yes,no,random,potted plant,ur,no
+317565,COCO_val2014_000000317565.jpg,کیا تصویر میں ٹی وی ہے؟,yes,no,random,tv,ur,no
+194716,COCO_val2014_000000194716.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,random,person,ur,yes
+83277,COCO_val2014_000000083277.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,random,person,ur,no
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کوئی کتاب ہے؟,yes,no,random,book,ur,no
+297522,COCO_val2014_000000297522.jpg,کیا تصویر میں بیس بال کا دستانہ ہے؟,yes,yes,random,baseball glove,ur,yes
+478736,COCO_val2014_000000478736.jpg,کیا تصویر میں ٹریفک لائٹ ہے؟,yes,no,random,traffic light,ur,no
+115776,COCO_val2014_000000115776.jpg,کیا تصویر میں کانٹا ہے؟,yes,no,random,fork,ur,no
+279549,COCO_val2014_000000279549.jpg,کیا تصویر میں ٹینس ریکیٹ ہے؟,yes,yes,random,tennis racket,ur,yes
+218494,COCO_val2014_000000218494.jpg,کیا تصویر میں کوئی چوہا ہے؟,yes,no,random,mouse,ur,no
+375285,COCO_val2014_000000375285.jpg,کیا تصویر میں کوئی بیگ ہے؟,yes,no,random,backpack,ur,no
+497067,COCO_val2014_000000497067.jpg,کیا تصویر میں کوئی کار ہے؟,yes,no,random,car,ur,no
+110330,COCO_val2014_000000110330.jpg,کیا تصویر میں ہینڈ بیگ ہے؟,yes,yes,random,handbag,ur,yes
+255401,COCO_val2014_000000255401.jpg,کیا تصویر میں کوئی بوتل ہے؟,yes,no,random,bottle,ur,no
+422025,COCO_val2014_000000422025.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,random,person,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کھیلوں کی گیند ہے؟,yes,yes,random,sports ball,ur,yes
+257036,COCO_val2014_000000257036.jpg,کیا تصویر میں کوئی سائیکل ہے؟,yes,yes,random,bicycle,ur,yes
+150224,COCO_val2014_000000150224.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,random,person,ur,yes
+536403,COCO_val2014_000000536403.jpg,کیا تصویر میں کوئی ہاٹ ڈاگ ہے؟,yes,no,random,hot dog,ur,no
+431891,COCO_val2014_000000431891.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,random,person,ur,no
+323576,COCO_val2014_000000323576.jpg,کیا تصویر میں کرسی ہے؟,yes,no,random,chair,ur,no
+439982,COCO_val2014_000000439982.jpg,کیا تصویر میں گاجر ہے؟,yes,yes,random,carrot,ur,yes
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,random,person,ur,yes
+110313,COCO_val2014_000000110313.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,random,person,ur,yes
+233727,COCO_val2014_000000233727.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,random,person,ur,no
+228335,COCO_val2014_000000228335.jpg,کیا تصویر میں گلدان ہے؟,yes,yes,random,vase,ur,yes
+520659,COCO_val2014_000000520659.jpg,کیا تصویر میں کوئی سرف بورڈ ہے؟,yes,no,random,surfboard,ur,no
+8021,COCO_val2014_000000008021.jpg,کیا تصویر میں ٹائی ہے؟,yes,no,random,tie,ur,no
+50942,COCO_val2014_000000050942.jpg,کیا تصویر میں کرسی ہے؟,yes,yes,random,chair,ur,yes
+200627,COCO_val2014_000000200627.jpg,کیا تصویر میں کپ ہے؟,yes,no,random,cup,ur,no
+386424,COCO_val2014_000000386424.jpg,کیا تصویر میں کھانے کی میز ہے؟,yes,yes,random,dining table,ur,yes
+248089,COCO_val2014_000000248089.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,random,person,ur,no
+17714,COCO_val2014_000000017714.jpg,کیا تصویر میں کھانے کی میز ہے؟,yes,yes,random,dining table,ur,yes
+526418,COCO_val2014_000000526418.jpg,کیا تصویر میں کوئی ٹیڈی بیر ہے؟,yes,no,random,teddy bear,ur,no
+342165,COCO_val2014_000000342165.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,random,person,ur,no
+8718,COCO_val2014_000000008718.jpg,کیا تصویر میں ایک پیالہ ہے؟,yes,yes,random,bowl,ur,yes
+332625,COCO_val2014_000000332625.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,random,person,ur,yes
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,random,person,ur,yes
+367872,COCO_val2014_000000367872.jpg,کیا تصویر میں کھیلوں کی گیند ہے؟,yes,yes,random,sports ball,ur,yes
+455716,COCO_val2014_000000455716.jpg,کیا تصویر میں کوئی موٹر سائیکل ہے؟,yes,no,random,motorcycle,ur,no
+398798,COCO_val2014_000000398798.jpg,کیا تصویر میں ٹینس ریکیٹ ہے؟,yes,yes,random,tennis racket,ur,yes
+383087,COCO_val2014_000000383087.jpg,کیا تصویر میں ایک پیالہ ہے؟,yes,yes,random,bowl,ur,yes
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کوئی سینڈوچ ہے؟,no,no,random,sandwich,ur,no
+470699,COCO_val2014_000000470699.jpg,کیا تصویر میں کوئی بستر ہے؟,no,no,random,bed,ur,no
+520862,COCO_val2014_000000520862.jpg,کیا تصویر میں کوئی بیگ ہے؟,no,no,random,backpack,ur,no
+412419,COCO_val2014_000000412419.jpg,کیا تصویر میں کوئی پودا ہے؟,no,no,random,potted plant,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں ہینڈ بیگ ہے؟,no,yes,random,handbag,ur,yes
+577219,COCO_val2014_000000577219.jpg,کیا تصویر میں مائکروویو ہے؟,no,no,random,microwave,ur,no
+303685,COCO_val2014_000000303685.jpg,کیا تصویر میں کیک ہے؟,no,yes,random,cake,ur,yes
+113139,COCO_val2014_000000113139.jpg,کیا تصویر میں سنو بورڈ ہے؟,no,yes,random,snowboard,ur,yes
+207072,COCO_val2014_000000207072.jpg,کیا تصویر میں سنو بورڈ ہے؟,no,no,random,snowboard,ur,no
+317565,COCO_val2014_000000317565.jpg,کیا تصویر میں کوئی ریموٹ ہے؟,no,no,random,remote,ur,no
+194716,COCO_val2014_000000194716.jpg,کیا تصویر میں ہینڈ بیگ ہے؟,no,yes,random,handbag,ur,yes
+83277,COCO_val2014_000000083277.jpg,کیا تصویر میں چھتری ہے؟,no,yes,random,umbrella,ur,yes
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کرسی ہے؟,no,no,random,chair,ur,no
+297522,COCO_val2014_000000297522.jpg,کیا تصویر میں پارکنگ میٹر ہے؟,no,yes,random,parking meter,ur,yes
+478736,COCO_val2014_000000478736.jpg,کیا تصویر میں بس ہے؟,no,no,random,bus,ur,no
+115776,COCO_val2014_000000115776.jpg,کیا تصویر میں پارکنگ میٹر ہے؟,no,no,random,parking meter,ur,no
+279549,COCO_val2014_000000279549.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,random,book,ur,no
+218494,COCO_val2014_000000218494.jpg,کیا تصویر میں کوئی سینڈوچ ہے؟,no,no,random,sandwich,ur,no
+375285,COCO_val2014_000000375285.jpg,کیا تصویر میں کوئی ٹیڈی بیر ہے؟,no,no,random,teddy bear,ur,no
+497067,COCO_val2014_000000497067.jpg,کیا تصویر میں فریسبی ہے؟,no,yes,random,frisbee,ur,yes
+110330,COCO_val2014_000000110330.jpg,کیا تصویر میں کیک ہے؟,no,no,random,cake,ur,no
+255401,COCO_val2014_000000255401.jpg,کیا تصویر میں ٹریفک لائٹ ہے؟,no,yes,random,traffic light,ur,yes
+422025,COCO_val2014_000000422025.jpg,کیا تصویر میں گلدان ہے؟,no,no,random,vase,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں سٹاپ کا نشان ہے؟,no,yes,random,stop sign,ur,yes
+257036,COCO_val2014_000000257036.jpg,کیا تصویر میں کوئی سوٹ کیس ہے؟,no,yes,random,suitcase,ur,yes
+150224,COCO_val2014_000000150224.jpg,کیا تصویر میں کوئی سوٹ کیس ہے؟,no,no,random,suitcase,ur,no
+536403,COCO_val2014_000000536403.jpg,کیا تصویر میں زیبرا ہے؟,no,no,random,zebra,ur,no
+431891,COCO_val2014_000000431891.jpg,کیا تصویر میں گھوڑا ہے؟,no,yes,random,horse,ur,yes
+323576,COCO_val2014_000000323576.jpg,کیا تصویر میں ریفریجریٹر ہے؟,no,no,random,refrigerator,ur,no
+439982,COCO_val2014_000000439982.jpg,کیا تصویر میں کوئی سرف بورڈ ہے؟,no,no,random,surfboard,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کوئی ہاٹ ڈاگ ہے؟,no,no,random,hot dog,ur,no
+110313,COCO_val2014_000000110313.jpg,کیا تصویر میں تندور ہے؟,no,yes,random,oven,ur,yes
+233727,COCO_val2014_000000233727.jpg,کیا تصویر میں کھیلوں کی گیند ہے؟,no,yes,random,sports ball,ur,yes
+228335,COCO_val2014_000000228335.jpg,کیا تصویر میں کتا ہے؟,no,yes,random,dog,ur,yes
+520659,COCO_val2014_000000520659.jpg,کیا تصویر میں کیک ہے؟,no,yes,random,cake,ur,yes
+8021,COCO_val2014_000000008021.jpg,کیا تصویر میں کیک ہے؟,no,no,random,cake,ur,no
+50942,COCO_val2014_000000050942.jpg,کیا تصویر میں ٹینس ریکیٹ ہے؟,no,yes,random,tennis racket,ur,yes
+200627,COCO_val2014_000000200627.jpg,کیا تصویر میں زیبرا ہے؟,no,yes,random,zebra,ur,yes
+386424,COCO_val2014_000000386424.jpg,کیا تصویر میں ایک پیالہ ہے؟,no,yes,random,bowl,ur,yes
+248089,COCO_val2014_000000248089.jpg,کیا تصویر میں شراب کا گلاس ہے؟,no,no,random,wine glass,ur,no
+17714,COCO_val2014_000000017714.jpg,کیا تصویر میں کوئی سینڈوچ ہے؟,no,no,random,sandwich,ur,no
+526418,COCO_val2014_000000526418.jpg,کیا تصویر میں ٹینس ریکیٹ ہے؟,no,no,random,tennis racket,ur,no
+342165,COCO_val2014_000000342165.jpg,کیا تصویر میں مائکروویو ہے؟,no,no,random,microwave,ur,no
+8718,COCO_val2014_000000008718.jpg,کیا تصویر میں کوئی سائیکل ہے؟,no,no,random,bicycle,ur,no
+332625,COCO_val2014_000000332625.jpg,کیا تصویر میں فائر ہائیڈرنٹ ہے؟,no,no,random,fire hydrant,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں تندور ہے؟,no,yes,random,oven,ur,yes
+367872,COCO_val2014_000000367872.jpg,کیا تصویر میں بھیڑ ہے؟,no,no,random,sheep,ur,no
+455716,COCO_val2014_000000455716.jpg,کیا تصویر میں بروکولی ہے؟,no,no,random,broccoli,ur,no
+398798,COCO_val2014_000000398798.jpg,کیا تصویر میں کوئی بستر ہے؟,no,no,random,bed,ur,no
+383087,COCO_val2014_000000383087.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,no,random,bottle,ur,no
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کوئی سرف بورڈ ہے؟,yes,no,popular,surfboard,ur,no
+470699,COCO_val2014_000000470699.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,popular,person,ur,no
+520862,COCO_val2014_000000520862.jpg,کیا تصویر میں کرسی ہے؟,yes,no,popular,chair,ur,no
+412419,COCO_val2014_000000412419.jpg,کیا تصویر میں بیس بال کا دستانہ ہے؟,yes,no,popular,baseball glove,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,popular,person,ur,yes
+577219,COCO_val2014_000000577219.jpg,کیا تصویر میں کوئی بیگ ہے؟,yes,no,popular,backpack,ur,no
+303685,COCO_val2014_000000303685.jpg,کیا تصویر میں کوئی ٹرک ہے؟,yes,yes,popular,truck,ur,yes
+113139,COCO_val2014_000000113139.jpg,کیا تصویر میں کپ ہے؟,yes,no,popular,cup,ur,no
+207072,COCO_val2014_000000207072.jpg,کیا تصویر میں کوئی کار ہے؟,yes,no,popular,car,ur,no
+317565,COCO_val2014_000000317565.jpg,کیا تصویر میں صوفہ ہے؟,yes,no,popular,couch,ur,no
+194716,COCO_val2014_000000194716.jpg,کیا تصویر میں کوئی کار ہے؟,yes,no,popular,car,ur,no
+83277,COCO_val2014_000000083277.jpg,کیا تصویر میں کوئی کار ہے؟,yes,no,popular,car,ur,no
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کیک ہے؟,yes,yes,popular,cake,ur,yes
+297522,COCO_val2014_000000297522.jpg,کیا تصویر میں بیس بال کا دستانہ ہے؟,yes,yes,popular,baseball glove,ur,yes
+478736,COCO_val2014_000000478736.jpg,کیا تصویر میں کوئی کار ہے؟,yes,no,popular,car,ur,no
+115776,COCO_val2014_000000115776.jpg,کیا تصویر میں چاقو ہے؟,yes,yes,popular,knife,ur,yes
+279549,COCO_val2014_000000279549.jpg,کیا تصویر میں ٹینس ریکیٹ ہے؟,yes,yes,popular,tennis racket,ur,yes
+218494,COCO_val2014_000000218494.jpg,کیا تصویر میں کی بورڈ ہے؟,yes,no,popular,keyboard,ur,no
+375285,COCO_val2014_000000375285.jpg,کیا تصویر میں کوئی بیگ ہے؟,yes,no,popular,backpack,ur,no
+497067,COCO_val2014_000000497067.jpg,کیا تصویر میں کوئی ٹرک ہے؟,yes,yes,popular,truck,ur,yes
+110330,COCO_val2014_000000110330.jpg,کیا تصویر میں ہینڈ بیگ ہے؟,yes,yes,popular,handbag,ur,yes
+255401,COCO_val2014_000000255401.jpg,کیا تصویر میں کوئی بوتل ہے؟,yes,no,popular,bottle,ur,no
+422025,COCO_val2014_000000422025.jpg,کیا تصویر میں کوئی ٹرک ہے؟,yes,no,popular,truck,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں بیس بال کا دستانہ ہے؟,yes,no,popular,baseball glove,ur,no
+257036,COCO_val2014_000000257036.jpg,کیا تصویر میں کوئی بیگ ہے؟,yes,no,popular,backpack,ur,no
+150224,COCO_val2014_000000150224.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,popular,person,ur,yes
+536403,COCO_val2014_000000536403.jpg,کیا تصویر میں کوئی ہاٹ ڈاگ ہے؟,yes,no,popular,hot dog,ur,no
+431891,COCO_val2014_000000431891.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,popular,person,ur,no
+323576,COCO_val2014_000000323576.jpg,کیا تصویر میں چھتری ہے؟,yes,yes,popular,umbrella,ur,yes
+439982,COCO_val2014_000000439982.jpg,کیا تصویر میں کپ ہے؟,yes,yes,popular,cup,ur,yes
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,popular,person,ur,yes
+110313,COCO_val2014_000000110313.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,popular,person,ur,yes
+233727,COCO_val2014_000000233727.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,popular,person,ur,no
+228335,COCO_val2014_000000228335.jpg,کیا تصویر میں کرسی ہے؟,yes,no,popular,chair,ur,no
+520659,COCO_val2014_000000520659.jpg,کیا تصویر میں کوئی سرف بورڈ ہے؟,yes,no,popular,surfboard,ur,no
+8021,COCO_val2014_000000008021.jpg,کیا تصویر میں کوئی بوتل ہے؟,yes,no,popular,bottle,ur,no
+50942,COCO_val2014_000000050942.jpg,کیا تصویر میں کی بورڈ ہے؟,yes,yes,popular,keyboard,ur,yes
+200627,COCO_val2014_000000200627.jpg,کیا تصویر میں کوئی کتاب ہے؟,yes,no,popular,book,ur,no
+386424,COCO_val2014_000000386424.jpg,کیا تصویر میں کوئی بوتل ہے؟,yes,no,popular,bottle,ur,no
+248089,COCO_val2014_000000248089.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,popular,person,ur,no
+17714,COCO_val2014_000000017714.jpg,کیا تصویر میں کانٹا ہے؟,yes,no,popular,fork,ur,no
+526418,COCO_val2014_000000526418.jpg,کیا تصویر میں کوئی کتاب ہے؟,yes,yes,popular,book,ur,yes
+342165,COCO_val2014_000000342165.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,popular,person,ur,no
+8718,COCO_val2014_000000008718.jpg,کیا تصویر میں چمچ ہے؟,yes,yes,popular,spoon,ur,yes
+332625,COCO_val2014_000000332625.jpg,کیا تصویر میں کرسی ہے؟,yes,no,popular,chair,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں کھیلوں کی گیند ہے؟,yes,yes,popular,sports ball,ur,yes
+367872,COCO_val2014_000000367872.jpg,کیا تصویر میں بیس بال کا دستانہ ہے؟,yes,yes,popular,baseball glove,ur,yes
+455716,COCO_val2014_000000455716.jpg,کیا تصویر میں ہینڈ بیگ ہے؟,yes,yes,popular,handbag,ur,yes
+398798,COCO_val2014_000000398798.jpg,کیا تصویر میں ٹینس ریکیٹ ہے؟,yes,yes,popular,tennis racket,ur,yes
+383087,COCO_val2014_000000383087.jpg,کیا تصویر میں کپ ہے؟,yes,yes,popular,cup,ur,yes
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کرسی ہے؟,no,no,popular,chair,ur,no
+470699,COCO_val2014_000000470699.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+520862,COCO_val2014_000000520862.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+412419,COCO_val2014_000000412419.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں کرسی ہے؟,no,yes,popular,chair,ur,yes
+577219,COCO_val2014_000000577219.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+303685,COCO_val2014_000000303685.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+113139,COCO_val2014_000000113139.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+207072,COCO_val2014_000000207072.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,popular,person,ur,no
+317565,COCO_val2014_000000317565.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+194716,COCO_val2014_000000194716.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+83277,COCO_val2014_000000083277.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+297522,COCO_val2014_000000297522.jpg,کیا تصویر میں کوئی کار ہے؟,no,yes,popular,car,ur,yes
+478736,COCO_val2014_000000478736.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,popular,person,ur,no
+115776,COCO_val2014_000000115776.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,popular,person,ur,no
+279549,COCO_val2014_000000279549.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+218494,COCO_val2014_000000218494.jpg,کیا تصویر میں کرسی ہے؟,no,no,popular,chair,ur,no
+375285,COCO_val2014_000000375285.jpg,کیا تصویر میں کرسی ہے؟,no,yes,popular,chair,ur,yes
+497067,COCO_val2014_000000497067.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,no,popular,bottle,ur,no
+110330,COCO_val2014_000000110330.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+255401,COCO_val2014_000000255401.jpg,کیا تصویر میں کرسی ہے؟,no,yes,popular,chair,ur,yes
+422025,COCO_val2014_000000422025.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+257036,COCO_val2014_000000257036.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+150224,COCO_val2014_000000150224.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,yes,popular,bottle,ur,yes
+536403,COCO_val2014_000000536403.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,popular,person,ur,no
+431891,COCO_val2014_000000431891.jpg,کیا تصویر میں کوئی کار ہے؟,no,yes,popular,car,ur,yes
+323576,COCO_val2014_000000323576.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+439982,COCO_val2014_000000439982.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کرسی ہے؟,no,no,popular,chair,ur,no
+110313,COCO_val2014_000000110313.jpg,کیا تصویر میں کرسی ہے؟,no,no,popular,chair,ur,no
+233727,COCO_val2014_000000233727.jpg,کیا تصویر میں کرسی ہے؟,no,yes,popular,chair,ur,yes
+228335,COCO_val2014_000000228335.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,no,popular,bottle,ur,no
+520659,COCO_val2014_000000520659.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+8021,COCO_val2014_000000008021.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+50942,COCO_val2014_000000050942.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+200627,COCO_val2014_000000200627.jpg,کیا تصویر میں کرسی ہے؟,no,no,popular,chair,ur,no
+386424,COCO_val2014_000000386424.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+248089,COCO_val2014_000000248089.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+17714,COCO_val2014_000000017714.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+526418,COCO_val2014_000000526418.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,yes,popular,bottle,ur,yes
+342165,COCO_val2014_000000342165.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+8718,COCO_val2014_000000008718.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,popular,person,ur,no
+332625,COCO_val2014_000000332625.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+367872,COCO_val2014_000000367872.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+455716,COCO_val2014_000000455716.jpg,کیا تصویر میں کرسی ہے؟,no,no,popular,chair,ur,no
+398798,COCO_val2014_000000398798.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,popular,car,ur,no
+383087,COCO_val2014_000000383087.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,popular,book,ur,no
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کوئی کتاب ہے؟,yes,no,adversarial,book,ur,no
+470699,COCO_val2014_000000470699.jpg,کیا تصویر میں کوئی سرف بورڈ ہے؟,yes,no,adversarial,surfboard,ur,no
+520862,COCO_val2014_000000520862.jpg,کیا تصویر میں کھانے کی میز ہے؟,yes,no,adversarial,dining table,ur,no
+412419,COCO_val2014_000000412419.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,adversarial,person,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں بیس بال کا دستانہ ہے؟,yes,yes,adversarial,baseball glove,ur,yes
+577219,COCO_val2014_000000577219.jpg,کیا تصویر میں کوئی بیگ ہے؟,yes,no,adversarial,backpack,ur,no
+303685,COCO_val2014_000000303685.jpg,کیا تصویر میں کوئی بیگ ہے؟,yes,no,adversarial,backpack,ur,no
+113139,COCO_val2014_000000113139.jpg,کیا تصویر میں کھانے کی میز ہے؟,yes,yes,adversarial,dining table,ur,yes
+207072,COCO_val2014_000000207072.jpg,کیا تصویر میں گلدان ہے؟,yes,yes,adversarial,vase,ur,yes
+317565,COCO_val2014_000000317565.jpg,کیا تصویر میں ٹی وی ہے؟,yes,no,adversarial,tv,ur,no
+194716,COCO_val2014_000000194716.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,adversarial,person,ur,yes
+83277,COCO_val2014_000000083277.jpg,کیا تصویر میں اسکیٹ بورڈ ہے؟,yes,yes,adversarial,skateboard,ur,yes
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کوئی سرف بورڈ ہے؟,yes,no,adversarial,surfboard,ur,no
+297522,COCO_val2014_000000297522.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,adversarial,person,ur,yes
+478736,COCO_val2014_000000478736.jpg,کیا تصویر میں کوئی کار ہے؟,yes,no,adversarial,car,ur,no
+115776,COCO_val2014_000000115776.jpg,کیا تصویر میں چاقو ہے؟,yes,yes,adversarial,knife,ur,yes
+279549,COCO_val2014_000000279549.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,adversarial,person,ur,yes
+218494,COCO_val2014_000000218494.jpg,کیا تصویر میں کی بورڈ ہے؟,yes,no,adversarial,keyboard,ur,no
+375285,COCO_val2014_000000375285.jpg,کیا تصویر میں کوئی سرف بورڈ ہے؟,yes,no,adversarial,surfboard,ur,no
+497067,COCO_val2014_000000497067.jpg,کیا تصویر میں کوئی ٹرک ہے؟,yes,yes,adversarial,truck,ur,yes
+110330,COCO_val2014_000000110330.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,adversarial,person,ur,yes
+255401,COCO_val2014_000000255401.jpg,کیا تصویر میں کوئی بوتل ہے؟,yes,no,adversarial,bottle,ur,no
+422025,COCO_val2014_000000422025.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,adversarial,person,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,yes,adversarial,person,ur,yes
+257036,COCO_val2014_000000257036.jpg,کیا تصویر میں کوئی سائیکل ہے؟,yes,yes,adversarial,bicycle,ur,yes
+150224,COCO_val2014_000000150224.jpg,کیا تصویر میں کرسی ہے؟,yes,no,adversarial,chair,ur,no
+536403,COCO_val2014_000000536403.jpg,کیا تصویر میں کوئی ہاٹ ڈاگ ہے؟,yes,no,adversarial,hot dog,ur,no
+431891,COCO_val2014_000000431891.jpg,کیا تصویر میں کوئی بوتل ہے؟,yes,no,adversarial,bottle,ur,no
+323576,COCO_val2014_000000323576.jpg,کیا تصویر میں چھتری ہے؟,yes,yes,adversarial,umbrella,ur,yes
+439982,COCO_val2014_000000439982.jpg,کیا تصویر میں کھانے کی میز ہے؟,yes,yes,adversarial,dining table,ur,yes
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں بیس بال کا دستانہ ہے؟,yes,no,adversarial,baseball glove,ur,no
+110313,COCO_val2014_000000110313.jpg,کیا تصویر میں چھتری ہے؟,yes,no,adversarial,umbrella,ur,no
+233727,COCO_val2014_000000233727.jpg,کیا تصویر میں کوئی سائیکل ہے؟,yes,no,adversarial,bicycle,ur,no
+228335,COCO_val2014_000000228335.jpg,کیا تصویر میں گلدان ہے؟,yes,yes,adversarial,vase,ur,yes
+520659,COCO_val2014_000000520659.jpg,کیا تصویر میں کوئی سرف بورڈ ہے؟,yes,no,adversarial,surfboard,ur,no
+8021,COCO_val2014_000000008021.jpg,کیا تصویر میں کوئی بوتل ہے؟,yes,no,adversarial,bottle,ur,no
+50942,COCO_val2014_000000050942.jpg,کیا تصویر میں کی بورڈ ہے؟,yes,yes,adversarial,keyboard,ur,yes
+200627,COCO_val2014_000000200627.jpg,کیا تصویر میں بروکولی ہے؟,yes,yes,adversarial,broccoli,ur,yes
+386424,COCO_val2014_000000386424.jpg,کیا تصویر میں گلدان ہے؟,yes,no,adversarial,vase,ur,no
+248089,COCO_val2014_000000248089.jpg,کیا تصویر میں کوئی ریموٹ ہے؟,yes,no,adversarial,remote,ur,no
+17714,COCO_val2014_000000017714.jpg,کیا تصویر میں چاقو ہے؟,yes,yes,adversarial,knife,ur,yes
+526418,COCO_val2014_000000526418.jpg,کیا تصویر میں کوئی کتاب ہے؟,yes,yes,adversarial,book,ur,yes
+342165,COCO_val2014_000000342165.jpg,کیا تصویر میں کوئی شخص ہے؟,yes,no,adversarial,person,ur,no
+8718,COCO_val2014_000000008718.jpg,کیا تصویر میں کپ ہے؟,yes,yes,adversarial,cup,ur,yes
+332625,COCO_val2014_000000332625.jpg,کیا تصویر میں ٹی وی ہے؟,yes,yes,adversarial,tv,ur,yes
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں چھتری ہے؟,yes,yes,adversarial,umbrella,ur,yes
+367872,COCO_val2014_000000367872.jpg,کیا تصویر میں بیس بال کا بیٹ ہے؟,yes,yes,adversarial,baseball bat,ur,yes
+455716,COCO_val2014_000000455716.jpg,کیا تصویر میں کوئی موٹر سائیکل ہے؟,yes,no,adversarial,motorcycle,ur,no
+398798,COCO_val2014_000000398798.jpg,کیا تصویر میں ٹینس ریکیٹ ہے؟,yes,yes,adversarial,tennis racket,ur,yes
+383087,COCO_val2014_000000383087.jpg,کیا تصویر میں کھانے کی میز ہے؟,yes,yes,adversarial,dining table,ur,yes
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کرسی ہے؟,no,no,adversarial,chair,ur,no
+470699,COCO_val2014_000000470699.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+520862,COCO_val2014_000000520862.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+412419,COCO_val2014_000000412419.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں کرسی ہے؟,no,yes,adversarial,chair,ur,yes
+577219,COCO_val2014_000000577219.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+303685,COCO_val2014_000000303685.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+113139,COCO_val2014_000000113139.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+207072,COCO_val2014_000000207072.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,adversarial,person,ur,no
+317565,COCO_val2014_000000317565.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+194716,COCO_val2014_000000194716.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+83277,COCO_val2014_000000083277.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+322816,COCO_val2014_000000322816.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+297522,COCO_val2014_000000297522.jpg,کیا تصویر میں کوئی کار ہے؟,no,yes,adversarial,car,ur,yes
+478736,COCO_val2014_000000478736.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,adversarial,person,ur,no
+115776,COCO_val2014_000000115776.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,adversarial,person,ur,no
+279549,COCO_val2014_000000279549.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+218494,COCO_val2014_000000218494.jpg,کیا تصویر میں کرسی ہے؟,no,no,adversarial,chair,ur,no
+375285,COCO_val2014_000000375285.jpg,کیا تصویر میں کرسی ہے؟,no,yes,adversarial,chair,ur,yes
+497067,COCO_val2014_000000497067.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,no,adversarial,bottle,ur,no
+110330,COCO_val2014_000000110330.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+255401,COCO_val2014_000000255401.jpg,کیا تصویر میں کرسی ہے؟,no,yes,adversarial,chair,ur,yes
+422025,COCO_val2014_000000422025.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+257036,COCO_val2014_000000257036.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+150224,COCO_val2014_000000150224.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,yes,adversarial,bottle,ur,yes
+536403,COCO_val2014_000000536403.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,adversarial,person,ur,no
+431891,COCO_val2014_000000431891.jpg,کیا تصویر میں کوئی کار ہے؟,no,yes,adversarial,car,ur,yes
+323576,COCO_val2014_000000323576.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+439982,COCO_val2014_000000439982.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+54329,COCO_val2014_000000054329.jpg,کیا تصویر میں کرسی ہے؟,no,no,adversarial,chair,ur,no
+110313,COCO_val2014_000000110313.jpg,کیا تصویر میں کرسی ہے؟,no,no,adversarial,chair,ur,no
+233727,COCO_val2014_000000233727.jpg,کیا تصویر میں کرسی ہے؟,no,yes,adversarial,chair,ur,yes
+228335,COCO_val2014_000000228335.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,no,adversarial,bottle,ur,no
+520659,COCO_val2014_000000520659.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+8021,COCO_val2014_000000008021.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+50942,COCO_val2014_000000050942.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+200627,COCO_val2014_000000200627.jpg,کیا تصویر میں کرسی ہے؟,no,no,adversarial,chair,ur,no
+386424,COCO_val2014_000000386424.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+248089,COCO_val2014_000000248089.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+17714,COCO_val2014_000000017714.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+526418,COCO_val2014_000000526418.jpg,کیا تصویر میں کوئی بوتل ہے؟,no,yes,adversarial,bottle,ur,yes
+342165,COCO_val2014_000000342165.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+8718,COCO_val2014_000000008718.jpg,کیا تصویر میں کوئی شخص ہے؟,no,no,adversarial,person,ur,no
+332625,COCO_val2014_000000332625.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+131280,COCO_val2014_000000131280.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+367872,COCO_val2014_000000367872.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
+455716,COCO_val2014_000000455716.jpg,کیا تصویر میں کرسی ہے؟,no,no,adversarial,chair,ur,no
+398798,COCO_val2014_000000398798.jpg,کیا تصویر میں کوئی کار ہے؟,no,no,adversarial,car,ur,no
+383087,COCO_val2014_000000383087.jpg,کیا تصویر میں کوئی کتاب ہے؟,no,no,adversarial,book,ur,no
