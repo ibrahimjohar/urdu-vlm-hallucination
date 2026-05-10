@@ -1,0 +1,301 @@
+image_id,file_name,question,answer,predicted,split,category,language,raw_response
+322816,COCO_val2014_000000322816.jpg,Is there a cake in the image?,yes,yes,random,cake,en,yes
+470699,COCO_val2014_000000470699.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+520862,COCO_val2014_000000520862.jpg,Is there a chair in the image?,yes,yes,random,chair,en,yes
+412419,COCO_val2014_000000412419.jpg,Is there a baseball glove in the image?,yes,yes,random,baseball glove,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a sports ball in the image?,yes,yes,random,sports ball,en,yes
+577219,COCO_val2014_000000577219.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+303685,COCO_val2014_000000303685.jpg,Is there a backpack in the image?,yes,yes,random,backpack,en,yes
+113139,COCO_val2014_000000113139.jpg,Is there a dining table in the image?,yes,yes,random,dining table,en,yes
+207072,COCO_val2014_000000207072.jpg,Is there a potted plant in the image?,yes,yes,random,potted plant,en,yes
+317565,COCO_val2014_000000317565.jpg,Is there a tv in the image?,yes,yes,random,tv,en,yes
+194716,COCO_val2014_000000194716.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+83277,COCO_val2014_000000083277.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+322816,COCO_val2014_000000322816.jpg,Is there a book in the image?,yes,no,random,book,en,no
+297522,COCO_val2014_000000297522.jpg,Is there a baseball glove in the image?,yes,yes,random,baseball glove,en,yes
+478736,COCO_val2014_000000478736.jpg,Is there a traffic light in the image?,yes,yes,random,traffic light,en,yes
+115776,COCO_val2014_000000115776.jpg,Is there a fork in the image?,yes,yes,random,fork,en,yes
+279549,COCO_val2014_000000279549.jpg,Is there a tennis racket in the image?,yes,yes,random,tennis racket,en,yes
+218494,COCO_val2014_000000218494.jpg,Is there a mouse in the image?,yes,yes,random,mouse,en,yes
+375285,COCO_val2014_000000375285.jpg,Is there a backpack in the image?,yes,yes,random,backpack,en,yes
+497067,COCO_val2014_000000497067.jpg,Is there a car in the image?,yes,yes,random,car,en,yes
+110330,COCO_val2014_000000110330.jpg,Is there a handbag in the image?,yes,yes,random,handbag,en,yes
+255401,COCO_val2014_000000255401.jpg,Is there a bottle in the image?,yes,yes,random,bottle,en,yes
+422025,COCO_val2014_000000422025.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+54329,COCO_val2014_000000054329.jpg,Is there a sports ball in the image?,yes,yes,random,sports ball,en,yes
+257036,COCO_val2014_000000257036.jpg,Is there a bicycle in the image?,yes,yes,random,bicycle,en,yes
+150224,COCO_val2014_000000150224.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+536403,COCO_val2014_000000536403.jpg,Is there a hot dog in the image?,yes,yes,random,hot dog,en,yes
+431891,COCO_val2014_000000431891.jpg,Is there a person in the image?,yes,no,random,person,en,no
+323576,COCO_val2014_000000323576.jpg,Is there a chair in the image?,yes,yes,random,chair,en,yes
+439982,COCO_val2014_000000439982.jpg,Is there a carrot in the image?,yes,no,random,carrot,en,no
+54329,COCO_val2014_000000054329.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+110313,COCO_val2014_000000110313.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+233727,COCO_val2014_000000233727.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+228335,COCO_val2014_000000228335.jpg,Is there a vase in the image?,yes,yes,random,vase,en,yes
+520659,COCO_val2014_000000520659.jpg,Is there a surfboard in the image?,yes,yes,random,surfboard,en,yes
+8021,COCO_val2014_000000008021.jpg,Is there a tie in the image?,yes,yes,random,tie,en,yes
+50942,COCO_val2014_000000050942.jpg,Is there a chair in the image?,yes,yes,random,chair,en,yes
+200627,COCO_val2014_000000200627.jpg,Is there a cup in the image?,yes,yes,random,cup,en,yes
+386424,COCO_val2014_000000386424.jpg,Is there a dining table in the image?,yes,yes,random,dining table,en,yes
+248089,COCO_val2014_000000248089.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+17714,COCO_val2014_000000017714.jpg,Is there a dining table in the image?,yes,yes,random,dining table,en,yes
+526418,COCO_val2014_000000526418.jpg,Is there a teddy bear in the image?,yes,yes,random,teddy bear,en,yes
+342165,COCO_val2014_000000342165.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+8718,COCO_val2014_000000008718.jpg,Is there a bowl in the image?,yes,yes,random,bowl,en,yes
+332625,COCO_val2014_000000332625.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a person in the image?,yes,yes,random,person,en,yes
+367872,COCO_val2014_000000367872.jpg,Is there a sports ball in the image?,yes,yes,random,sports ball,en,yes
+455716,COCO_val2014_000000455716.jpg,Is there a motorcycle in the image?,yes,yes,random,motorcycle,en,yes
+398798,COCO_val2014_000000398798.jpg,Is there a tennis racket in the image?,yes,yes,random,tennis racket,en,yes
+383087,COCO_val2014_000000383087.jpg,Is there a bowl in the image?,yes,yes,random,bowl,en,yes
+322816,COCO_val2014_000000322816.jpg,Is there a sandwich in the image?,no,no,random,sandwich,en,no
+470699,COCO_val2014_000000470699.jpg,Is there a bed in the image?,no,no,random,bed,en,no
+520862,COCO_val2014_000000520862.jpg,Is there a backpack in the image?,no,no,random,backpack,en,no
+412419,COCO_val2014_000000412419.jpg,Is there a potted plant in the image?,no,no,random,potted plant,en,no
+131280,COCO_val2014_000000131280.jpg,Is there a handbag in the image?,no,no,random,handbag,en,no
+577219,COCO_val2014_000000577219.jpg,Is there a microwave in the image?,no,no,random,microwave,en,no
+303685,COCO_val2014_000000303685.jpg,Is there a cake in the image?,no,no,random,cake,en,no
+113139,COCO_val2014_000000113139.jpg,Is there a snowboard in the image?,no,no,random,snowboard,en,no
+207072,COCO_val2014_000000207072.jpg,Is there a snowboard in the image?,no,no,random,snowboard,en,no
+317565,COCO_val2014_000000317565.jpg,Is there a remote in the image?,no,yes,random,remote,en,yes
+194716,COCO_val2014_000000194716.jpg,Is there a handbag in the image?,no,no,random,handbag,en,no
+83277,COCO_val2014_000000083277.jpg,Is there a umbrella in the image?,no,yes,random,umbrella,en,yes
+322816,COCO_val2014_000000322816.jpg,Is there a chair in the image?,no,no,random,chair,en,no
+297522,COCO_val2014_000000297522.jpg,Is there a parking meter in the image?,no,no,random,parking meter,en,no
+478736,COCO_val2014_000000478736.jpg,Is there a bus in the image?,no,no,random,bus,en,no
+115776,COCO_val2014_000000115776.jpg,Is there a parking meter in the image?,no,no,random,parking meter,en,no
+279549,COCO_val2014_000000279549.jpg,Is there a book in the image?,no,no,random,book,en,no
+218494,COCO_val2014_000000218494.jpg,Is there a sandwich in the image?,no,no,random,sandwich,en,no
+375285,COCO_val2014_000000375285.jpg,Is there a teddy bear in the image?,no,no,random,teddy bear,en,no
+497067,COCO_val2014_000000497067.jpg,Is there a frisbee in the image?,no,no,random,frisbee,en,no
+110330,COCO_val2014_000000110330.jpg,Is there a cake in the image?,no,no,random,cake,en,no
+255401,COCO_val2014_000000255401.jpg,Is there a traffic light in the image?,no,no,random,traffic light,en,no
+422025,COCO_val2014_000000422025.jpg,Is there a vase in the image?,no,no,random,vase,en,no
+54329,COCO_val2014_000000054329.jpg,Is there a stop sign in the image?,no,no,random,stop sign,en,no
+257036,COCO_val2014_000000257036.jpg,Is there a suitcase in the image?,no,yes,random,suitcase,en,yes
+150224,COCO_val2014_000000150224.jpg,Is there a suitcase in the image?,no,no,random,suitcase,en,no
+536403,COCO_val2014_000000536403.jpg,Is there a zebra in the image?,no,no,random,zebra,en,no
+431891,COCO_val2014_000000431891.jpg,Is there a horse in the image?,no,no,random,horse,en,no
+323576,COCO_val2014_000000323576.jpg,Is there a refrigerator in the image?,no,no,random,refrigerator,en,no
+439982,COCO_val2014_000000439982.jpg,Is there a surfboard in the image?,no,no,random,surfboard,en,no
+54329,COCO_val2014_000000054329.jpg,Is there a hot dog in the image?,no,no,random,hot dog,en,no
+110313,COCO_val2014_000000110313.jpg,Is there a oven in the image?,no,no,random,oven,en,no
+233727,COCO_val2014_000000233727.jpg,Is there a sports ball in the image?,no,no,random,sports ball,en,no
+228335,COCO_val2014_000000228335.jpg,Is there a dog in the image?,no,no,random,dog,en,no
+520659,COCO_val2014_000000520659.jpg,Is there a cake in the image?,no,no,random,cake,en,no
+8021,COCO_val2014_000000008021.jpg,Is there a cake in the image?,no,no,random,cake,en,no
+50942,COCO_val2014_000000050942.jpg,Is there a tennis racket in the image?,no,no,random,tennis racket,en,no
+200627,COCO_val2014_000000200627.jpg,Is there a zebra in the image?,no,no,random,zebra,en,no
+386424,COCO_val2014_000000386424.jpg,Is there a bowl in the image?,no,no,random,bowl,en,no
+248089,COCO_val2014_000000248089.jpg,Is there a wine glass in the image?,no,no,random,wine glass,en,no
+17714,COCO_val2014_000000017714.jpg,Is there a sandwich in the image?,no,no,random,sandwich,en,no
+526418,COCO_val2014_000000526418.jpg,Is there a tennis racket in the image?,no,yes,random,tennis racket,en,yes
+342165,COCO_val2014_000000342165.jpg,Is there a microwave in the image?,no,no,random,microwave,en,no
+8718,COCO_val2014_000000008718.jpg,Is there a bicycle in the image?,no,no,random,bicycle,en,no
+332625,COCO_val2014_000000332625.jpg,Is there a fire hydrant in the image?,no,no,random,fire hydrant,en,no
+131280,COCO_val2014_000000131280.jpg,Is there a oven in the image?,no,no,random,oven,en,no
+367872,COCO_val2014_000000367872.jpg,Is there a sheep in the image?,no,no,random,sheep,en,no
+455716,COCO_val2014_000000455716.jpg,Is there a broccoli in the image?,no,no,random,broccoli,en,no
+398798,COCO_val2014_000000398798.jpg,Is there a bed in the image?,no,no,random,bed,en,no
+383087,COCO_val2014_000000383087.jpg,Is there a bottle in the image?,no,yes,random,bottle,en,yes
+322816,COCO_val2014_000000322816.jpg,Is there a surfboard in the image?,yes,yes,popular,surfboard,en,yes
+470699,COCO_val2014_000000470699.jpg,Is there a person in the image?,yes,yes,popular,person,en,yes
+520862,COCO_val2014_000000520862.jpg,Is there a chair in the image?,yes,yes,popular,chair,en,yes
+412419,COCO_val2014_000000412419.jpg,Is there a baseball glove in the image?,yes,yes,popular,baseball glove,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a person in the image?,yes,yes,popular,person,en,yes
+577219,COCO_val2014_000000577219.jpg,Is there a backpack in the image?,yes,no,popular,backpack,en,no
+303685,COCO_val2014_000000303685.jpg,Is there a truck in the image?,yes,yes,popular,truck,en,yes
+113139,COCO_val2014_000000113139.jpg,Is there a cup in the image?,yes,yes,popular,cup,en,yes
+207072,COCO_val2014_000000207072.jpg,Is there a car in the image?,yes,yes,popular,car,en,yes
+317565,COCO_val2014_000000317565.jpg,Is there a couch in the image?,yes,yes,popular,couch,en,yes
+194716,COCO_val2014_000000194716.jpg,Is there a car in the image?,yes,yes,popular,car,en,yes
+83277,COCO_val2014_000000083277.jpg,Is there a car in the image?,yes,yes,popular,car,en,yes
+322816,COCO_val2014_000000322816.jpg,Is there a cake in the image?,yes,yes,popular,cake,en,yes
+297522,COCO_val2014_000000297522.jpg,Is there a baseball glove in the image?,yes,yes,popular,baseball glove,en,yes
+478736,COCO_val2014_000000478736.jpg,Is there a car in the image?,yes,yes,popular,car,en,yes
+115776,COCO_val2014_000000115776.jpg,Is there a knife in the image?,yes,yes,popular,knife,en,yes
+279549,COCO_val2014_000000279549.jpg,Is there a tennis racket in the image?,yes,yes,popular,tennis racket,en,yes
+218494,COCO_val2014_000000218494.jpg,Is there a keyboard in the image?,yes,yes,popular,keyboard,en,yes
+375285,COCO_val2014_000000375285.jpg,Is there a backpack in the image?,yes,yes,popular,backpack,en,yes
+497067,COCO_val2014_000000497067.jpg,Is there a truck in the image?,yes,yes,popular,truck,en,yes
+110330,COCO_val2014_000000110330.jpg,Is there a handbag in the image?,yes,yes,popular,handbag,en,yes
+255401,COCO_val2014_000000255401.jpg,Is there a bottle in the image?,yes,yes,popular,bottle,en,yes
+422025,COCO_val2014_000000422025.jpg,Is there a truck in the image?,yes,yes,popular,truck,en,yes
+54329,COCO_val2014_000000054329.jpg,Is there a baseball glove in the image?,yes,yes,popular,baseball glove,en,yes
+257036,COCO_val2014_000000257036.jpg,Is there a backpack in the image?,yes,yes,popular,backpack,en,yes
+150224,COCO_val2014_000000150224.jpg,Is there a person in the image?,yes,yes,popular,person,en,yes
+536403,COCO_val2014_000000536403.jpg,Is there a hot dog in the image?,yes,yes,popular,hot dog,en,yes
+431891,COCO_val2014_000000431891.jpg,Is there a person in the image?,yes,no,popular,person,en,no
+323576,COCO_val2014_000000323576.jpg,Is there a umbrella in the image?,yes,yes,popular,umbrella,en,yes
+439982,COCO_val2014_000000439982.jpg,Is there a cup in the image?,yes,yes,popular,cup,en,yes
+54329,COCO_val2014_000000054329.jpg,Is there a person in the image?,yes,yes,popular,person,en,yes
+110313,COCO_val2014_000000110313.jpg,Is there a person in the image?,yes,yes,popular,person,en,yes
+233727,COCO_val2014_000000233727.jpg,Is there a person in the image?,yes,yes,popular,person,en,yes
+228335,COCO_val2014_000000228335.jpg,Is there a chair in the image?,yes,yes,popular,chair,en,yes
+520659,COCO_val2014_000000520659.jpg,Is there a surfboard in the image?,yes,yes,popular,surfboard,en,yes
+8021,COCO_val2014_000000008021.jpg,Is there a bottle in the image?,yes,no,popular,bottle,en,no
+50942,COCO_val2014_000000050942.jpg,Is there a keyboard in the image?,yes,yes,popular,keyboard,en,yes
+200627,COCO_val2014_000000200627.jpg,Is there a book in the image?,yes,yes,popular,book,en,yes
+386424,COCO_val2014_000000386424.jpg,Is there a bottle in the image?,yes,yes,popular,bottle,en,yes
+248089,COCO_val2014_000000248089.jpg,Is there a person in the image?,yes,yes,popular,person,en,yes
+17714,COCO_val2014_000000017714.jpg,Is there a fork in the image?,yes,yes,popular,fork,en,yes
+526418,COCO_val2014_000000526418.jpg,Is there a book in the image?,yes,yes,popular,book,en,yes
+342165,COCO_val2014_000000342165.jpg,Is there a person in the image?,yes,yes,popular,person,en,yes
+8718,COCO_val2014_000000008718.jpg,Is there a spoon in the image?,yes,yes,popular,spoon,en,yes
+332625,COCO_val2014_000000332625.jpg,Is there a chair in the image?,yes,yes,popular,chair,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a sports ball in the image?,yes,yes,popular,sports ball,en,yes
+367872,COCO_val2014_000000367872.jpg,Is there a baseball glove in the image?,yes,yes,popular,baseball glove,en,yes
+455716,COCO_val2014_000000455716.jpg,Is there a handbag in the image?,yes,yes,popular,handbag,en,yes
+398798,COCO_val2014_000000398798.jpg,Is there a tennis racket in the image?,yes,yes,popular,tennis racket,en,yes
+383087,COCO_val2014_000000383087.jpg,Is there a cup in the image?,yes,yes,popular,cup,en,yes
+322816,COCO_val2014_000000322816.jpg,Is there a chair in the image?,no,no,popular,chair,en,no
+470699,COCO_val2014_000000470699.jpg,Is there a book in the image?,no,yes,popular,book,en,yes
+520862,COCO_val2014_000000520862.jpg,Is there a car in the image?,no,yes,popular,car,en,yes
+412419,COCO_val2014_000000412419.jpg,Is there a book in the image?,no,yes,popular,book,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a chair in the image?,no,no,popular,chair,en,no
+577219,COCO_val2014_000000577219.jpg,Is there a book in the image?,no,yes,popular,book,en,yes
+303685,COCO_val2014_000000303685.jpg,Is there a car in the image?,no,yes,popular,car,en,yes
+113139,COCO_val2014_000000113139.jpg,Is there a car in the image?,no,no,popular,car,en,no
+207072,COCO_val2014_000000207072.jpg,Is there a person in the image?,no,no,popular,person,en,no
+317565,COCO_val2014_000000317565.jpg,Is there a car in the image?,no,no,popular,car,en,no
+194716,COCO_val2014_000000194716.jpg,Is there a book in the image?,no,no,popular,book,en,no
+83277,COCO_val2014_000000083277.jpg,Is there a book in the image?,no,no,popular,book,en,no
+322816,COCO_val2014_000000322816.jpg,Is there a car in the image?,no,no,popular,car,en,no
+297522,COCO_val2014_000000297522.jpg,Is there a car in the image?,no,no,popular,car,en,no
+478736,COCO_val2014_000000478736.jpg,Is there a person in the image?,no,no,popular,person,en,no
+115776,COCO_val2014_000000115776.jpg,Is there a person in the image?,no,no,popular,person,en,no
+279549,COCO_val2014_000000279549.jpg,Is there a car in the image?,no,yes,popular,car,en,yes
+218494,COCO_val2014_000000218494.jpg,Is there a chair in the image?,no,yes,popular,chair,en,yes
+375285,COCO_val2014_000000375285.jpg,Is there a chair in the image?,no,no,popular,chair,en,no
+497067,COCO_val2014_000000497067.jpg,Is there a bottle in the image?,no,no,popular,bottle,en,no
+110330,COCO_val2014_000000110330.jpg,Is there a book in the image?,no,yes,popular,book,en,yes
+255401,COCO_val2014_000000255401.jpg,Is there a chair in the image?,no,no,popular,chair,en,no
+422025,COCO_val2014_000000422025.jpg,Is there a book in the image?,no,no,popular,book,en,no
+54329,COCO_val2014_000000054329.jpg,Is there a book in the image?,no,no,popular,book,en,no
+257036,COCO_val2014_000000257036.jpg,Is there a book in the image?,no,yes,popular,book,en,yes
+150224,COCO_val2014_000000150224.jpg,Is there a bottle in the image?,no,yes,popular,bottle,en,yes
+536403,COCO_val2014_000000536403.jpg,Is there a person in the image?,no,no,popular,person,en,no
+431891,COCO_val2014_000000431891.jpg,Is there a car in the image?,no,yes,popular,car,en,yes
+323576,COCO_val2014_000000323576.jpg,Is there a book in the image?,no,no,popular,book,en,no
+439982,COCO_val2014_000000439982.jpg,Is there a book in the image?,no,no,popular,book,en,no
+54329,COCO_val2014_000000054329.jpg,Is there a chair in the image?,no,no,popular,chair,en,no
+110313,COCO_val2014_000000110313.jpg,Is there a chair in the image?,no,no,popular,chair,en,no
+233727,COCO_val2014_000000233727.jpg,Is there a chair in the image?,no,no,popular,chair,en,no
+228335,COCO_val2014_000000228335.jpg,Is there a bottle in the image?,no,yes,popular,bottle,en,yes
+520659,COCO_val2014_000000520659.jpg,Is there a car in the image?,no,yes,popular,car,en,yes
+8021,COCO_val2014_000000008021.jpg,Is there a car in the image?,no,no,popular,car,en,no
+50942,COCO_val2014_000000050942.jpg,Is there a car in the image?,no,yes,popular,car,en,yes
+200627,COCO_val2014_000000200627.jpg,Is there a chair in the image?,no,yes,popular,chair,en,yes
+386424,COCO_val2014_000000386424.jpg,Is there a car in the image?,no,no,popular,car,en,no
+248089,COCO_val2014_000000248089.jpg,Is there a book in the image?,no,yes,popular,book,en,yes
+17714,COCO_val2014_000000017714.jpg,Is there a car in the image?,no,no,popular,car,en,no
+526418,COCO_val2014_000000526418.jpg,Is there a bottle in the image?,no,yes,popular,bottle,en,yes
+342165,COCO_val2014_000000342165.jpg,Is there a book in the image?,no,yes,popular,book,en,yes
+8718,COCO_val2014_000000008718.jpg,Is there a person in the image?,no,no,popular,person,en,no
+332625,COCO_val2014_000000332625.jpg,Is there a car in the image?,no,yes,popular,car,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a book in the image?,no,no,popular,book,en,no
+367872,COCO_val2014_000000367872.jpg,Is there a book in the image?,no,yes,popular,book,en,yes
+455716,COCO_val2014_000000455716.jpg,Is there a chair in the image?,no,no,popular,chair,en,no
+398798,COCO_val2014_000000398798.jpg,Is there a car in the image?,no,no,popular,car,en,no
+383087,COCO_val2014_000000383087.jpg,Is there a book in the image?,no,no,popular,book,en,no
+322816,COCO_val2014_000000322816.jpg,Is there a book in the image?,yes,no,adversarial,book,en,no
+470699,COCO_val2014_000000470699.jpg,Is there a surfboard in the image?,yes,yes,adversarial,surfboard,en,yes
+520862,COCO_val2014_000000520862.jpg,Is there a dining table in the image?,yes,yes,adversarial,dining table,en,yes
+412419,COCO_val2014_000000412419.jpg,Is there a person in the image?,yes,yes,adversarial,person,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a baseball glove in the image?,yes,yes,adversarial,baseball glove,en,yes
+577219,COCO_val2014_000000577219.jpg,Is there a backpack in the image?,yes,no,adversarial,backpack,en,no
+303685,COCO_val2014_000000303685.jpg,Is there a backpack in the image?,yes,yes,adversarial,backpack,en,yes
+113139,COCO_val2014_000000113139.jpg,Is there a dining table in the image?,yes,yes,adversarial,dining table,en,yes
+207072,COCO_val2014_000000207072.jpg,Is there a vase in the image?,yes,yes,adversarial,vase,en,yes
+317565,COCO_val2014_000000317565.jpg,Is there a tv in the image?,yes,yes,adversarial,tv,en,yes
+194716,COCO_val2014_000000194716.jpg,Is there a person in the image?,yes,yes,adversarial,person,en,yes
+83277,COCO_val2014_000000083277.jpg,Is there a skateboard in the image?,yes,yes,adversarial,skateboard,en,yes
+322816,COCO_val2014_000000322816.jpg,Is there a surfboard in the image?,yes,yes,adversarial,surfboard,en,yes
+297522,COCO_val2014_000000297522.jpg,Is there a person in the image?,yes,yes,adversarial,person,en,yes
+478736,COCO_val2014_000000478736.jpg,Is there a car in the image?,yes,yes,adversarial,car,en,yes
+115776,COCO_val2014_000000115776.jpg,Is there a knife in the image?,yes,yes,adversarial,knife,en,yes
+279549,COCO_val2014_000000279549.jpg,Is there a person in the image?,yes,yes,adversarial,person,en,yes
+218494,COCO_val2014_000000218494.jpg,Is there a keyboard in the image?,yes,yes,adversarial,keyboard,en,yes
+375285,COCO_val2014_000000375285.jpg,Is there a surfboard in the image?,yes,yes,adversarial,surfboard,en,yes
+497067,COCO_val2014_000000497067.jpg,Is there a truck in the image?,yes,yes,adversarial,truck,en,yes
+110330,COCO_val2014_000000110330.jpg,Is there a person in the image?,yes,yes,adversarial,person,en,yes
+255401,COCO_val2014_000000255401.jpg,Is there a bottle in the image?,yes,yes,adversarial,bottle,en,yes
+422025,COCO_val2014_000000422025.jpg,Is there a person in the image?,yes,yes,adversarial,person,en,yes
+54329,COCO_val2014_000000054329.jpg,Is there a person in the image?,yes,yes,adversarial,person,en,yes
+257036,COCO_val2014_000000257036.jpg,Is there a bicycle in the image?,yes,yes,adversarial,bicycle,en,yes
+150224,COCO_val2014_000000150224.jpg,Is there a chair in the image?,yes,yes,adversarial,chair,en,yes
+536403,COCO_val2014_000000536403.jpg,Is there a hot dog in the image?,yes,yes,adversarial,hot dog,en,yes
+431891,COCO_val2014_000000431891.jpg,Is there a bottle in the image?,yes,yes,adversarial,bottle,en,yes
+323576,COCO_val2014_000000323576.jpg,Is there a umbrella in the image?,yes,yes,adversarial,umbrella,en,yes
+439982,COCO_val2014_000000439982.jpg,Is there a dining table in the image?,yes,yes,adversarial,dining table,en,yes
+54329,COCO_val2014_000000054329.jpg,Is there a baseball glove in the image?,yes,yes,adversarial,baseball glove,en,yes
+110313,COCO_val2014_000000110313.jpg,Is there a umbrella in the image?,yes,yes,adversarial,umbrella,en,yes
+233727,COCO_val2014_000000233727.jpg,Is there a bicycle in the image?,yes,yes,adversarial,bicycle,en,yes
+228335,COCO_val2014_000000228335.jpg,Is there a vase in the image?,yes,yes,adversarial,vase,en,yes
+520659,COCO_val2014_000000520659.jpg,Is there a surfboard in the image?,yes,yes,adversarial,surfboard,en,yes
+8021,COCO_val2014_000000008021.jpg,Is there a bottle in the image?,yes,no,adversarial,bottle,en,no
+50942,COCO_val2014_000000050942.jpg,Is there a keyboard in the image?,yes,yes,adversarial,keyboard,en,yes
+200627,COCO_val2014_000000200627.jpg,Is there a broccoli in the image?,yes,yes,adversarial,broccoli,en,yes
+386424,COCO_val2014_000000386424.jpg,Is there a vase in the image?,yes,no,adversarial,vase,en,no
+248089,COCO_val2014_000000248089.jpg,Is there a remote in the image?,yes,yes,adversarial,remote,en,yes
+17714,COCO_val2014_000000017714.jpg,Is there a knife in the image?,yes,yes,adversarial,knife,en,yes
+526418,COCO_val2014_000000526418.jpg,Is there a book in the image?,yes,yes,adversarial,book,en,yes
+342165,COCO_val2014_000000342165.jpg,Is there a person in the image?,yes,yes,adversarial,person,en,yes
+8718,COCO_val2014_000000008718.jpg,Is there a cup in the image?,yes,yes,adversarial,cup,en,yes
+332625,COCO_val2014_000000332625.jpg,Is there a tv in the image?,yes,yes,adversarial,tv,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a umbrella in the image?,yes,yes,adversarial,umbrella,en,yes
+367872,COCO_val2014_000000367872.jpg,Is there a baseball bat in the image?,yes,yes,adversarial,baseball bat,en,yes
+455716,COCO_val2014_000000455716.jpg,Is there a motorcycle in the image?,yes,yes,adversarial,motorcycle,en,yes
+398798,COCO_val2014_000000398798.jpg,Is there a tennis racket in the image?,yes,yes,adversarial,tennis racket,en,yes
+383087,COCO_val2014_000000383087.jpg,Is there a dining table in the image?,yes,yes,adversarial,dining table,en,yes
+322816,COCO_val2014_000000322816.jpg,Is there a chair in the image?,no,no,adversarial,chair,en,no
+470699,COCO_val2014_000000470699.jpg,Is there a book in the image?,no,yes,adversarial,book,en,yes
+520862,COCO_val2014_000000520862.jpg,Is there a car in the image?,no,yes,adversarial,car,en,yes
+412419,COCO_val2014_000000412419.jpg,Is there a book in the image?,no,yes,adversarial,book,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a chair in the image?,no,no,adversarial,chair,en,no
+577219,COCO_val2014_000000577219.jpg,Is there a book in the image?,no,yes,adversarial,book,en,yes
+303685,COCO_val2014_000000303685.jpg,Is there a car in the image?,no,yes,adversarial,car,en,yes
+113139,COCO_val2014_000000113139.jpg,Is there a car in the image?,no,no,adversarial,car,en,no
+207072,COCO_val2014_000000207072.jpg,Is there a person in the image?,no,no,adversarial,person,en,no
+317565,COCO_val2014_000000317565.jpg,Is there a car in the image?,no,no,adversarial,car,en,no
+194716,COCO_val2014_000000194716.jpg,Is there a book in the image?,no,no,adversarial,book,en,no
+83277,COCO_val2014_000000083277.jpg,Is there a book in the image?,no,no,adversarial,book,en,no
+322816,COCO_val2014_000000322816.jpg,Is there a car in the image?,no,no,adversarial,car,en,no
+297522,COCO_val2014_000000297522.jpg,Is there a car in the image?,no,no,adversarial,car,en,no
+478736,COCO_val2014_000000478736.jpg,Is there a person in the image?,no,no,adversarial,person,en,no
+115776,COCO_val2014_000000115776.jpg,Is there a person in the image?,no,no,adversarial,person,en,no
+279549,COCO_val2014_000000279549.jpg,Is there a car in the image?,no,yes,adversarial,car,en,yes
+218494,COCO_val2014_000000218494.jpg,Is there a chair in the image?,no,yes,adversarial,chair,en,yes
+375285,COCO_val2014_000000375285.jpg,Is there a chair in the image?,no,no,adversarial,chair,en,no
+497067,COCO_val2014_000000497067.jpg,Is there a bottle in the image?,no,no,adversarial,bottle,en,no
+110330,COCO_val2014_000000110330.jpg,Is there a book in the image?,no,yes,adversarial,book,en,yes
+255401,COCO_val2014_000000255401.jpg,Is there a chair in the image?,no,no,adversarial,chair,en,no
+422025,COCO_val2014_000000422025.jpg,Is there a book in the image?,no,no,adversarial,book,en,no
+54329,COCO_val2014_000000054329.jpg,Is there a book in the image?,no,no,adversarial,book,en,no
+257036,COCO_val2014_000000257036.jpg,Is there a book in the image?,no,yes,adversarial,book,en,yes
+150224,COCO_val2014_000000150224.jpg,Is there a bottle in the image?,no,yes,adversarial,bottle,en,yes
+536403,COCO_val2014_000000536403.jpg,Is there a person in the image?,no,no,adversarial,person,en,no
+431891,COCO_val2014_000000431891.jpg,Is there a car in the image?,no,yes,adversarial,car,en,yes
+323576,COCO_val2014_000000323576.jpg,Is there a book in the image?,no,no,adversarial,book,en,no
+439982,COCO_val2014_000000439982.jpg,Is there a book in the image?,no,no,adversarial,book,en,no
+54329,COCO_val2014_000000054329.jpg,Is there a chair in the image?,no,no,adversarial,chair,en,no
+110313,COCO_val2014_000000110313.jpg,Is there a chair in the image?,no,no,adversarial,chair,en,no
+233727,COCO_val2014_000000233727.jpg,Is there a chair in the image?,no,no,adversarial,chair,en,no
+228335,COCO_val2014_000000228335.jpg,Is there a bottle in the image?,no,yes,adversarial,bottle,en,yes
+520659,COCO_val2014_000000520659.jpg,Is there a car in the image?,no,yes,adversarial,car,en,yes
+8021,COCO_val2014_000000008021.jpg,Is there a car in the image?,no,no,adversarial,car,en,no
+50942,COCO_val2014_000000050942.jpg,Is there a car in the image?,no,yes,adversarial,car,en,yes
+200627,COCO_val2014_000000200627.jpg,Is there a chair in the image?,no,yes,adversarial,chair,en,yes
+386424,COCO_val2014_000000386424.jpg,Is there a car in the image?,no,no,adversarial,car,en,no
+248089,COCO_val2014_000000248089.jpg,Is there a book in the image?,no,yes,adversarial,book,en,yes
+17714,COCO_val2014_000000017714.jpg,Is there a car in the image?,no,no,adversarial,car,en,no
+526418,COCO_val2014_000000526418.jpg,Is there a bottle in the image?,no,yes,adversarial,bottle,en,yes
+342165,COCO_val2014_000000342165.jpg,Is there a book in the image?,no,yes,adversarial,book,en,yes
+8718,COCO_val2014_000000008718.jpg,Is there a person in the image?,no,no,adversarial,person,en,no
+332625,COCO_val2014_000000332625.jpg,Is there a car in the image?,no,yes,adversarial,car,en,yes
+131280,COCO_val2014_000000131280.jpg,Is there a book in the image?,no,no,adversarial,book,en,no
+367872,COCO_val2014_000000367872.jpg,Is there a book in the image?,no,yes,adversarial,book,en,yes
+455716,COCO_val2014_000000455716.jpg,Is there a chair in the image?,no,no,adversarial,chair,en,no
+398798,COCO_val2014_000000398798.jpg,Is there a car in the image?,no,no,adversarial,car,en,no
+383087,COCO_val2014_000000383087.jpg,Is there a book in the image?,no,no,adversarial,book,en,no
